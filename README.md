@@ -60,3 +60,6 @@ The Minimal Chat Application is a foundational project demonstrating basic chat 
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/731e6f62-3cb8-4990-930e-2a324c12e9fd)
+
+
